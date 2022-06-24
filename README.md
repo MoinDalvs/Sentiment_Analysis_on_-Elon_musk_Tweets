@@ -1,2 +1,12 @@
 # Sentiment_Analysis_on_-Elon_musk_Tweets
 Perform sentimental analysis on the Elon-musk tweets (Elon-musk.csv)
+![image](https://user-images.githubusercontent.com/99672298/175492826-15f4f61e-4789-40c0-8650-5a5478ecf7da.png)
+![image](https://user-images.githubusercontent.com/99672298/175492846-0a213331-4702-4d9e-86fb-e45e1f40acb7.png)
+![image](https://user-images.githubusercontent.com/99672298/175492919-476c5f77-f1ad-4e91-9976-f719d4735d30.png)
+![image](https://user-images.githubusercontent.com/99672298/175492981-1fda6f4c-d17f-4f74-9da5-a207be4d1efb.png)
+![image](https://user-images.githubusercontent.com/99672298/175492999-2af761c6-8145-48fe-a41c-da5141314173.png)
+![image](https://user-images.githubusercontent.com/99672298/175493014-e407b3ca-ff6c-4de8-af32-43929f81922f.png)
+![image](https://user-images.githubusercontent.com/99672298/175493026-056468cc-f31a-4edb-8cd3-2da7de6526e2.png)
+![image](https://user-images.githubusercontent.com/99672298/175493044-c4c64595-1472-42ae-a741-9b6ccbfc37b9.png)
+![image](https://user-images.githubusercontent.com/99672298/175493060-cd38099b-aa5f-4b12-b7a7-f8ffdfb4ca27.png)
+![image](https://user-images.githubusercontent.com/99672298/175493072-8ec9c77f-c250-4d4f-a8c8-72d8f37fc592.png)
